@@ -1,0 +1,2 @@
+# Ming
+Static Website
